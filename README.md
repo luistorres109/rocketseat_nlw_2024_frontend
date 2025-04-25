@@ -23,5 +23,5 @@ Projeto construído durante o evento NLW da Rocketseat em 2024, com foco na cria
 
 ```bash
 git clone https://github.com/luistorres109/rocketseat_nlw_2024_frontend
-cd rocketseat_nlw_2024_frontend
-abra o index.html no navegador
+```
+abra o `index.html` no navegador
