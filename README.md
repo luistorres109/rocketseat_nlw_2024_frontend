@@ -15,13 +15,10 @@ Projeto construído durante o evento NLW da Rocketseat em 2024, com foco na cria
 - CSS3
 - JavaScript
 
-## 🖼️ Resultado Final
-
-*Adicione aqui prints da interface ou deploy se houver (ex: Vercel, GitHub Pages)*
-
 ## 📦 Como testar localmente
 
 ```bash
 git clone https://github.com/luistorres109/rocketseat_nlw_2024_frontend
 ```
-abra o `index.html` no navegador
+
+Abra o `index.html` no navegador
